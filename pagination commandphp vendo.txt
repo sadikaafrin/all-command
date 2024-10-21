@@ -1,1 +1,10 @@
 pagination command:php artisan vendor:publish --tag=laravel-pagination 
+
+//date select without datepicker //
+https://flatpickr.js.org/examples
+
+
+php artisan migrate:rollback --step=5
+
+
+php artisan migrate:rollback
