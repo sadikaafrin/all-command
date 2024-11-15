@@ -14,3 +14,6 @@ git push origin --delete afrin
 
 cash clear
 php artisan optimize:clear
+
+twilio package
+https://www.twilio.com/en-us/blog/build-laravel-twilio-package-sms
