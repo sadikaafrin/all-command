@@ -1,0 +1,16 @@
+for git setup 
+$ git config --global user.name "sadikaafrin"
+
+$ git config --global user.email "sadikaafrin170043@gmail.com"
+
+$ git config user.name
+
+$ git config --global credential.helper store
+
+$ git config --global --list
+use.email=sadikaafrin170043@gmail.com
+user.name=sadikaafrin
+user.email=sadikaafrin170043@gmail.com
+ussr.name=sadikaafrin
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
